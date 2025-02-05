@@ -1,6 +1,6 @@
 # CRUDApplication
 
-Demarche:
+Demarche:\
 1)We created DB server Postgresql16\
 2)we installed  pgadmin tool a DB IDE tool in order to make SQL statements. This DB server is listening on port 5432.
 
